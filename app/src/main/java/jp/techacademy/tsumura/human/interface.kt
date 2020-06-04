@@ -1,7 +1,5 @@
 package jp.techacademy.tsumura.human
 
-import android.util.Log
-
-interface thinkable{
+interface Thinkable{
     fun think()
 }
